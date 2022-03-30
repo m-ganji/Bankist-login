@@ -1,2 +1,2 @@
 # bankist-login
-to login enter this 👉 user: js  PIN: 1111
+to see all the features login to website by entering this 👉 user: js  PIN: 1111
